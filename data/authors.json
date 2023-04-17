@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name" : "Celeste",
+        "link":"author1",
+        "profession":"Travel Blogger",
+        "imageSrc":"/images/author-img-1.jpeg",
+        "about":"Sharing my experiences and learnings"
+    },
+    {
+        "id" : 2,
+        "name" : "Beth",
+        "link":"author2",
+        "profession":"Developer",
+        "imageSrc":"/images/author-img-2.jpeg",
+        "about":"Sharing my experiences and learnings"
+    },
+    {
+        "id" : 3,
+        "name" : "Jason",
+        "link":"author3",
+        "profession":"UI Designer",
+        "imageSrc":"/images/author-img-3.jpeg",
+        "about":"Sharing my experiences and learnings"
+    },
+    {
+        "id" : 4,
+        "name" : "Rick",
+        "link":"author4",
+        "profession":"Frontend Developer",
+        "imageSrc":"/images/author-img-3.jpeg",
+        "about":"Sharing my experiences and learnings"
+    },
+    {
+        "id" : 5,
+        "name" : "Miley",
+        "link":"author5",
+        "profession":"Software Engineer",
+        "imageSrc":"/images/author-img-3.jpeg",
+        "about":"Sharing my experiences and learnings"
+    },
+    {
+        "id" : 5,
+        "name" : "Miller",
+        "link":"author6",
+        "profession":"UI Designer",
+        "imageSrc":"/images/author-img-3.jpeg",
+        "about":"Sharing my experiences and learnings"
+    }
+]

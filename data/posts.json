@@ -1,0 +1,93 @@
+[
+    {
+        "id" : 0,
+        "title" :"I tighten my siddur, fail to someone else's",
+        "link":"post1",
+        "contentPath": "./data/posts/post1.html",
+        "imageSrc":"/images/1.jpeg",
+        "authorId" :"1",
+        "categoryId":"1",
+        "summary" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took"
+    },
+    {
+        "id" : 1,
+        "title" :"Architecting React Apps Like it’s 2030",
+        "link":"post2",
+        "contentPath": "./data/posts/post2.html",
+        "imageSrc":"/images/2.jpeg",
+        "authorId" :"2",
+        "categoryId":"0",
+        "summary" : "There is one problem that every React Developer falls into during his journey. This is how to structure a good app architecture."
+    },
+    {
+        "id" : 2,
+        "title" :"7 Front-end Development Trends to Follow in 2023",
+        "link":"post3",
+        "contentPath": "./data/posts/post3.html",
+        "imageSrc":"/images/3.jpeg",
+        "authorId" :"2",
+        "categoryId":"0",
+        "summary" : "Front-end web development is nowhere. Here’s everything you need to know about WebDev in 2023."
+    },
+    {
+        "id" : 3,
+        "title" :"UI/UX Design Trends 2023",
+        "link":"post4",
+        "contentPath": "./data/posts/post4.html",
+        "imageSrc":"/images/4.jpeg",
+        "authorId" :"3",
+        "categoryId":"2",
+        "summary" : "UI and UX trends that continue to evolve, take new shape and find novel uses to the user’s benefit and delight. In this article, we highlight some of the trends we think will persist and perhaps gain even more traction in the next year."
+    },
+    {
+        "id" : 4,
+        "title" :" How to travel the world and get companies to pay for it.",
+        "link":"post5",
+        "contentPath": "./data/posts/post5.html",
+        "imageSrc":"/images/5.jpeg",
+        "authorId" :"1",
+        "categoryId":"1",
+        "summary" : "Don’t get excited, it doesn’t work like that."
+    },
+
+    {
+        "id" : 5,
+        "title" :" 8 Performance Optimization Techniques You Should Know in React.",
+        "link":"post6",
+        "contentPath": "./data/posts/post6.html",
+        "imageSrc":"/images/6.jpeg",
+        "authorId" :"2",
+        "categoryId":"0",
+        "summary" : "Before trying to optimize performance, we first have to understand how React actually works.."
+    },
+    {
+        "id" : 6,
+        "title" :" Clean Architecture in Node.js",
+        "link":"post7",
+        "contentPath": "./data/posts/post7.html",
+        "imageSrc":"/images/7.jpg",
+        "authorId" :"2",
+        "categoryId":"0",
+        "summary" : "Clean Architecture is a software development concept that focuses on creating modular and maintainable code. "
+    },
+    {
+        "id" : 7,
+        "title" :"What is Lorem Ipsum?",
+        "link":"post8",
+        "contentPath": "./data/posts/post8.html",
+        "imageSrc":"/images/8.jpg",
+        "authorId" :"2",
+        "categoryId":"2",
+        "summary" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+        "id" : 8,
+        "title" :"Where can I get some?",
+        "link":"post9",
+        "contentPath": "./data/posts/post9.html",
+        "imageSrc":"/images/9.png",
+        "authorId" :"2",
+        "categoryId":"1",
+        "summary" : "Don’t get excited, it doesn’t work like that."
+    }
+]

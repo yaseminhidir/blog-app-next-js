@@ -1,0 +1,33 @@
+<div class="container mt-5" id="content">
+    <div class="row justify-content-center">
+        <!-- Share buttons -->
+        <div class="col-lg-1 text-left mb-3 fixed" id="social-share">
+            <a class="btn  btn-light m-2" href="#"><i class="fab fa-facebook-f"></i></a>
+            <a class="btn  btn-light m-2" href="#"><i class="fab fa-google"></i></a>
+            <a class="btn  btn-light m-2" href="#"><i class="fab fa-twitter"></i></a>
+        </div>
+
+        <!-- the content -->
+        <div class="col-xl-7 col-lg-10 col-md-12">
+            <p class="lead">Virtual DOM is actually a copy of the real DOM. When we create a rendered component, React
+                creates a <strong>virtual DOM</strong> for its element tree in the component.</p>
+            <p>
+                Then, whenever the state of the component changes, React recreates the virtual DOM tree and compares the
+                result with the previous render. It then only updates the changed element in the actual DOM. This
+                process is called diffing. </p>
+
+            <p>React uses the concept of a virtual DOM to minimize the performance cost of re-rendering a webpage
+                because the actual DOM is expensive to manipulate. </p>
+
+            <p>This feature is great because it speeds up the UI render time. However, it can also slow down a complex
+                app if it’s not managed well. </p>
+
+            <p>What we can deduce here is that a state change in a React component causes a re-render. Likewise, when
+                the state passes down to a child component as a prop, it re-renders the child and so on. </p>
+
+        </div>
+        <div class="col-lg-10 mt-3">
+            <hr>
+        </div>
+    </div>
+</div>

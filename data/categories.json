@@ -1,0 +1,30 @@
+[
+{
+    "id":"0",
+    "name":"Development"
+},
+{
+    "id":"1",
+    "name":"Travel"
+},
+{
+    "id":"2",
+    "name":"UX/UI Design"
+},
+{
+    "id":"3",
+    "name":"Food"
+},
+{
+    "id":"4",
+    "name":"Music"
+},
+{
+    "id":"5",
+    "name":"TV Series"
+},
+{
+    "id":"6",
+    "name":"Movies"
+}
+]
